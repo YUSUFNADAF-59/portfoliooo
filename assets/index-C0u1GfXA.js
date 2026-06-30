@@ -23256,7 +23256,7 @@ function Portfolio() {
           /* @__PURE__ */ jsxRuntimeExports.jsx(
             "video",
             {
-              src: "/intro.mp4",
+              src: "https://cdn.jsdelivr.net/gh/YUSUFNADAF-59/portfoliooo@main/public/intro.mp4",
               autoPlay: true,
               muted: true,
               loop: true,
