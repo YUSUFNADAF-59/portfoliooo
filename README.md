@@ -1,7 +1,7 @@
 
   # Create animation portfolio site
 
-  This is a code bundle for Create animation portfolio site. The original project is available at https://www.figma.com/design/cNF3DoT1vn61u0k5CB2xuh/Create-animation-portfolio-site.
+  This is a code bundle for Create animation portfolio site. The original project is available at
 
   ## Running the code
 
